@@ -1,6 +1,6 @@
-# Tugas1Web-2101010019-Angga
-Tugas 1 Portofolio Pemograman Web
+# TugasCV_InfiniteLearning_BayuAngga_WebCAfternoon
+Task Web Portofolio #2
 
 Nama : I Nyoman Gede Bayu Angga Widyasa
-NIM : 2101010019
-Universitas : Primakara University
+Kelas : Web C Afternoon
+Asal Universitas : Universitas Primakara
